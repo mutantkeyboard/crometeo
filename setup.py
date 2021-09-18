@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Antonio Nesic",
     author_email="nesic.antonio@gmail.com",
-    description="Unofficial reader for Meteo.hr",
+    description="Client for readingn data from Meteo.hr",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/mutantkeyboard/crometeo",
